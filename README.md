@@ -7,7 +7,7 @@ Xudong Wang, Xi’ai Chen, Tong Cui, Zhi Han, Yandong Tang <br />
 We propose a semi-supervised image dehazing algorithm with better adaptability in real-world environments. To better suit the actual situation of light inhomogeneity, we proposed a physical image dehazing model with adaptive information correction by combining the global atmospheric light value and transmittance matrix. Meanwhile, by sharing the feature extraction network, a light-weight CNN with only 31kb space occupation is designed to estimate the parameter matrix in an efficient way. The proposed algorithm uses a semi-supervised learning strategy to make full use of synthetic dataset while enhancing the dehazing ability in real-world through an online enhancement learning strategy.
 
 <p float="left">
-  &emsp;&emsp; <img src="files/f1.png" width="900" />
+  &emsp;&emsp; <img src="./f1.png" width="900" />
 </p>
 
 ## Dependencies
@@ -42,7 +42,7 @@ SemiStrain.py: Training the dehazing model by Semi-supervised learning in specif
 1. Please put the images to be tested into the ``test_images`` folder. We have prepared the images of the experimental results in the paper.
 2. Please run the ``test.py``, then you will get the following results:
 <p float="left">
-  &emsp;&emsp; <img src="files/f2.png" width="900" />
+  &emsp;&emsp; <img src="./f2.png" width="900" />
 </p>
 
 ## Test all
