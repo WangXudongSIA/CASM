@@ -60,3 +60,5 @@ You can perform semi-supervised learning of the network by following this step.
 1. Please make sure you have got the supervised learning trained model.
 2. Please put the specific dataset into the ``Sdata/gt_hazy`` folder, which does not require any image with labels. 
 3. Please run the ``SemiStrain.py``, then you will get the Semi-supervised learning dehazing model in ``saved_models`` folder.
+
+## Other modules will be updated after publication.
