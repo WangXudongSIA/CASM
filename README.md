@@ -1,4 +1,4 @@
-## Semi-supervised Learning based Environment Adaptive Image Dehazing Algorithm
+## Semi-Supervised Learning-Based  Environment Adaptive Self-Enhancement Algorithm for Single Image Dehazing
 
 Xudong Wang, Xi’ai Chen, Tong Cui, Zhi Han, Yandong Tang <br />
  <br />
