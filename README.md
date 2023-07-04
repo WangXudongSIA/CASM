@@ -1,6 +1,6 @@
 ## Towards Real-world Image Dehazing via Adaptive Atmospheric Scattering Model
 
-Xudong Wang, Xi’ai Chen, Tong Cui, Zhi Han, Yandong Tang <br />
+Xudong Wang, Xi’ai Chen, Weihong Ren, Zhi Han, Yandong Tang <br />
  <br />
 
 ## Our work 
