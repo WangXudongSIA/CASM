@@ -1,4 +1,4 @@
-## Semi-Supervised Learning-Based  Environment Adaptive Self-Enhancement Algorithm for Single Image Dehazing
+## Towards Real-world Image Dehazing via Adaptive Atmospheric Scattering Model
 
 Xudong Wang, Xi’ai Chen, Tong Cui, Zhi Han, Yandong Tang <br />
  <br />
