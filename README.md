@@ -1,6 +1,6 @@
 ## Towards Real-world Image Dehazing via Adaptive Atmospheric Scattering Model
 
-Xudong Wang, Xi’ai Chen *, Weihong Ren, Zhi Han, Yandong Tang <br />
+Xudong Wang, Xi’ai Chen *, Weihong Ren, Zhi Han, Huijie Fan, Yandong Tang <br />
  <br />
 The State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, and also University of Chinese Academy of Sciences (UCAS). (e-mail: wangxudong@sia.cn).
 ## Our work 
