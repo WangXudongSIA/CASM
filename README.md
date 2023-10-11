@@ -1,4 +1,4 @@
-## Towards Real-world Image Dehazing via Adaptive Atmospheric Scattering Model
+## Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing
 
 Xudong Wang, Xi’ai Chen *, Weihong Ren, Zhi Han, Huijie Fan, Yandong Tang <br />
  <br />
