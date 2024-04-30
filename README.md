@@ -62,4 +62,16 @@ You can perform semi-supervised learning of the network by following this step.
 2. Please put the specific dataset into the ``Sdata/gt_hazy`` folder, which does not require any image with labels. 
 3. Please run the ``SemiStrain.py``, then you will get the Semi-supervised learning dehazing model in ``saved_models`` folder.
 
-## · Other modules will be updated after publication.
+## Citation
+Thank you for your interest and welcome to cite our paper:
+```bibtex
+@ARTICLE{10504912,
+  author={Wang, Xudong and Chen, Xi'ai and Ren, Weihong and Han, Zhi and Fan, Huijie and Tang, Yandong and Liu, Lianqing},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+  title={Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-17},
+  doi={10.1109/TETCI.2024.3386838}}
+```
