@@ -71,8 +71,10 @@ Thank you for your interest and welcome to cite our paper:
   journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
   title={Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-17},
+  volume={8},
+  number={4},
+  pages={2880-2896},
+  keywords={Atmospheric modeling;Feature extraction;Scattering;Adaptation models;Lighting;Training;Computational modeling;Image dehazing;atmospheric scattering model;semi-supervised learning;image restoration},
   doi={10.1109/TETCI.2024.3386838}}
+
 ```
